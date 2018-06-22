@@ -1,0 +1,8 @@
+{
+  "name": "ZekApp",
+  "app_id": "d179e807",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
